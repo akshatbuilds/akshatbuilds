@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Akshat Chaudhary
+# I'm Akshat Chaudhary
 
 ### AI & Agentic Systems Engineer
 *Building Production-Grade Autonomous Solutions*
